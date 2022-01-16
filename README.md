@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Silviaclds
+- 👀 I’m interested in Artificial Intelligence...
+- 🌱 I’m currently learning Computer Science and AI with Python.
+- 📫 You can reach out to me through silviaclds1106@gmail.
